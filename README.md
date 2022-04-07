@@ -7,7 +7,6 @@
 ## 目录介绍
 
 - **lib**：代码文件的主目录
-- **pubspec.yaml**：flutter的配置文件
   - **apis**：Dio的api接口，访问后端接口
   - **components**：组件包，在ui包中用到
   - **fonts**：图标与字体包
@@ -24,5 +23,6 @@
     - **LoginPage.dart**：登陆页
   - **utils**：工具类
   - **main.dart**：入口文件
+- **pubspec.yaml**：flutter的配置文件
 - **LICENSE**：开源协议
 - **README.md**：readme文件
